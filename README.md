@@ -23,7 +23,7 @@ Além, de poder enviar SMS sobre a venda de cada vendedor
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/JorgeMeireles95/dsmeta/blob/main/projeto.png)
 
 
 
